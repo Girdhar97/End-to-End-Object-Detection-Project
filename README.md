@@ -38,7 +38,7 @@ aws configure
 ## How to run:
 
 ```bash
-conda create -n signlang python=3.8 -y
+conda create -n signlang python=3. -y
 ```
 
 ```bash
