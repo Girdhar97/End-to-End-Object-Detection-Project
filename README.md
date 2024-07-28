@@ -1,13 +1,14 @@
 # End-to-end-Object-Detection-Project
 
 
-## Workflows
+## Workflows: this explains what files are to be changed first and last in order
 
 - constants
 - config_entity
 - artifact_entity
 - components
-- pipeline
+- pipeline         
+# pipeline is a flow defining what files to run first, starting from data ingestion in components folder
 - app.py
 
 
